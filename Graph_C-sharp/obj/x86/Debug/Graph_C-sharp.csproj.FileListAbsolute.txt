@@ -1,0 +1,16 @@
+N:\AS Computing\Graph_C-sharp\Graph_C-sharp\bin\Debug\Graph_C-sharp.exe
+N:\AS Computing\Graph_C-sharp\Graph_C-sharp\bin\Debug\Graph_C-sharp.pdb
+N:\AS Computing\Graph_C-sharp\Graph_C-sharp\obj\x86\Debug\Graph_C_sharp.Form1.resources
+N:\AS Computing\Graph_C-sharp\Graph_C-sharp\obj\x86\Debug\Graph_C_sharp.Properties.Resources.resources
+N:\AS Computing\Graph_C-sharp\Graph_C-sharp\obj\x86\Debug\Graph_C-sharp.csproj.GenerateResource.Cache
+N:\AS Computing\Graph_C-sharp\Graph_C-sharp\obj\x86\Debug\Graph_C-sharp.exe
+N:\AS Computing\Graph_C-sharp\Graph_C-sharp\obj\x86\Debug\Graph_C-sharp.pdb
+N:\AS Computing\Graph_C-sharp\Graph_C-sharp\obj\x86\Debug\Graph_C-sharp.csprojResolveAssemblyReference.cache
+F:\Graph_C-sharp\Graph_C-sharp\obj\x86\Debug\Graph_C-sharp.exe
+F:\Graph_C-sharp\Graph_C-sharp\bin\Debug\Graph_C-sharp.exe
+F:\Graph_C-sharp\Graph_C-sharp\bin\Debug\Graph_C-sharp.pdb
+F:\Graph_C-sharp\Graph_C-sharp\obj\x86\Debug\Graph_C-sharp.csprojResolveAssemblyReference.cache
+F:\Graph_C-sharp\Graph_C-sharp\obj\x86\Debug\Graph_C_sharp.Form1.resources
+F:\Graph_C-sharp\Graph_C-sharp\obj\x86\Debug\Graph_C_sharp.Properties.Resources.resources
+F:\Graph_C-sharp\Graph_C-sharp\obj\x86\Debug\Graph_C-sharp.csproj.GenerateResource.Cache
+F:\Graph_C-sharp\Graph_C-sharp\obj\x86\Debug\Graph_C-sharp.pdb
